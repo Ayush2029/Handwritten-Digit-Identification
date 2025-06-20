@@ -34,8 +34,8 @@ Your FastAPI backend will start at:<br>
 http://127.0.0.1:8000<br>
 
 <h3>Use the Frontend</h3>
-Open frontend.html in any modern web browser (e.g., Chrome).<br>
-Draw a digit on the canvas or upload an image of a digit. <br>
-Click on "Predict".<br>
-The result will appear below. <br>
+1] Open frontend.html in any modern web browser (e.g., Chrome).<br>
+2] Draw a digit on the canvas or upload an image of a digit. <br>
+3] Click on "Predict".<br>
+4] The result will appear below. <br>
 Note: Make sure the FastAPI backend is running before using the frontend page. The frontend sends predictions to: http://127.0.0.1:8000/predict/ <br>
