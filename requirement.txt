@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+tensorflow
+matplotlib
+scikit-learn
+seaborn
+Pillow
+jinja2
+python-multipart
