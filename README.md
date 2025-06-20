@@ -9,3 +9,12 @@ This project is a full-stack application for recognizing handwritten digits usin
 - Confusion matrix, accuracy curves, and loss graphs in notebook <br>
 - Fully local and offline-capable <br>
 
+<h4> Installation </h4>
+Make sure you have Python 3.8 or higher installed.<br>
+1] Clone the repository: <br>
+Run this in terminal: <br>
+git clone https://github.com/Ayush2029/Handwritten-Digit-Identification.git <br>
+cd Handwritten-Digit-Identification <br>
+2] Install dependencies: <br>
+Run this: <br>
+pip install -r requirements.txt <br>
