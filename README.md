@@ -2,6 +2,19 @@
 
 This project is a full-stack application for recognizing handwritten digits using the MNIST dataset. It consists of a trained CNN model, a FastAPI backend for inference, and a frontend HTML page for users to draw or upload digits for prediction. <br>
 
+<h3>Project Structure </h3>
+The project is organized as follows: <br>
+1] MNIST.ipynb — Jupyter Notebook used to train the CNN model on the MNIST dataset. <br>
+2] requirement.txt — Contains all required Python packages to run the backend. <br>
+3] GUI.png — A preview image of the application's frontend or interface. <br>
+4] backend/ — Contains the FastAPI backend: <br>
+(a) model.h5 — The trained CNN model saved in HDF5 format. <br>
+(b) digit_api.py — FastAPI server script that loads the model and provides prediction API. <br>
+5] frontend/ — Contains the user-facing interface: <br>
+(a)index.html — Web page where users can draw or upload a digit for prediction. <br>
+6] handwrittendigit/ — (Assumed to contain additional utility scripts, modules, or organization-specific files; you can elaborate this if needed.) <br>
+7] README.md — Instructions and documentation for setting up and running the project (this file).  <br>
+
 <h4>Features: </h4>
 - Convolutional Neural Network (CNN) trained on MNIST <br>
 - FastAPI backend for digit prediction via file upload <br>
