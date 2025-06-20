@@ -7,12 +7,12 @@ The project is organized as follows: <br>
 1] MNIST.ipynb — Jupyter Notebook used to train the CNN model on the MNIST dataset. <br>
 2] requirement.txt — Contains all required Python packages to run the backend. <br>
 3] GUI.png — A preview image of the application's frontend or interface. <br>
-4] backend/ — Contains the FastAPI backend: <br>
+4] backend/ — <br>
 (a) model.h5 — The trained CNN model saved in HDF5 format. <br>
 (b) digit_api.py — FastAPI server script that loads the model and provides prediction API. <br>
-5] frontend/ — Contains the user-facing interface: <br>
+5] frontend/ — <br>
 (a)index.html — Web page where users can draw or upload a digit for prediction. <br>
-6] handwrittendigit/ — (Assumed to contain additional utility scripts, modules, or organization-specific files; you can elaborate this if needed.) <br>
+6] handwrittendigit/ — Images of handwritten Digits used for testing <br>
 7] README.md — Instructions and documentation for setting up and running the project (this file).  <br>
 
 <h4>Features: </h4>
